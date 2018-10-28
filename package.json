@@ -1,0 +1,15 @@
+{
+  "name": "zucc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imfunny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "say": "^0.15.0"
+  }
+}
