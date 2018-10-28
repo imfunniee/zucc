@@ -9,6 +9,7 @@
   "author": "imfunny",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.4",
     "say": "^0.15.0"
   }
 }
