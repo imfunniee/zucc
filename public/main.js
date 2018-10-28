@@ -31,7 +31,7 @@ for (var i = event.resultIndex; i < event.results.length; ++i) {
 
       case "google" :
       if(!ytString){ $('#everything').html("oppsie!! no search text provided"); return;}
-      $('#everything').html("seaching on google...");
+      $('#everything').html("searching on google...");
       setTimeout(function(){
         $('#website').attr("href","https://www.google.com/search?q="+googleString);
         document.getElementById("website").click();
